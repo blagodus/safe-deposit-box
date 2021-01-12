@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/safe-deposit-box/static/css/main.0e3d5b00.chunk.css",
+    "main.js": "/safe-deposit-box/static/js/main.e6fbda7c.chunk.js",
+    "main.js.map": "/safe-deposit-box/static/js/main.e6fbda7c.chunk.js.map",
+    "runtime-main.js": "/safe-deposit-box/static/js/runtime-main.d22b4dcd.js",
+    "runtime-main.js.map": "/safe-deposit-box/static/js/runtime-main.d22b4dcd.js.map",
+    "static/js/2.a25da97a.chunk.js": "/safe-deposit-box/static/js/2.a25da97a.chunk.js",
+    "static/js/2.a25da97a.chunk.js.map": "/safe-deposit-box/static/js/2.a25da97a.chunk.js.map",
+    "static/js/3.e9202375.chunk.js": "/safe-deposit-box/static/js/3.e9202375.chunk.js",
+    "static/js/3.e9202375.chunk.js.map": "/safe-deposit-box/static/js/3.e9202375.chunk.js.map",
+    "index.html": "/safe-deposit-box/index.html",
+    "static/css/main.0e3d5b00.chunk.css.map": "/safe-deposit-box/static/css/main.0e3d5b00.chunk.css.map",
+    "static/js/2.a25da97a.chunk.js.LICENSE.txt": "/safe-deposit-box/static/js/2.a25da97a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22b4dcd.js",
+    "static/js/2.a25da97a.chunk.js",
+    "static/css/main.0e3d5b00.chunk.css",
+    "static/js/main.e6fbda7c.chunk.js"
+  ]
+}
