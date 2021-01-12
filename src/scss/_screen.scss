@@ -1,0 +1,32 @@
+.screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: $screen-text;
+  height: 220px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 4px 0px #282c34;
+  .status-line {
+    align-self: flex-start;
+    color: $screen-text;
+    font-size: 24px;
+    font-weight: 400;
+  }
+  span.main-line {
+    align-self: flex-end;
+    color: $screen-text;
+    font-size: 48px;
+    font-weight: 500;
+  }
+}
+
+.screen__on {
+  background-color: $screen-backlight__on;
+  transition: background-color 400ms linear;
+}
+
+.screen__off {
+  background-color: $screen-backlight__off;
+  transition: background-color 400ms linear;
+}
